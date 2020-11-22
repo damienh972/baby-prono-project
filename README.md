@@ -1,1 +1,3 @@
-# Projects and ideas
+# Welcome to baby pronos :game_die:  
+
+
