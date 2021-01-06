@@ -55,7 +55,7 @@
     "webpack-merge": "*"
   },
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "prop-types": "*",
     "react": "*",
     "react-dom": "*",
